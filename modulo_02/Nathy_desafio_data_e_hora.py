@@ -11,7 +11,7 @@ if 5 <= hora < 12:
     saudacao = "Bom dia"
 elif 12 <= hora < 18:
     saudacao = "Boa tarde"
-else:
+else: 
     saudacao = "Boa noite"
 
 # 3. Exibir a saudação completa com a hora atual
